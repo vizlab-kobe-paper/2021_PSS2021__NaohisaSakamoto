@@ -1,2 +1,2 @@
-# 2021_PSS2021__NaohisaSakamoto
-プラズマシミュレータシンポジウム2021
+# プラズマシミュレータシンポジウム2021
+https://workshop.nifs.ac.jp/pss2021/
